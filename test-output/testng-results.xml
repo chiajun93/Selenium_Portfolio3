@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11506" started-at="2015-12-04T20:47:54Z" finished-at="2015-12-04T20:48:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11506" started-at="2015-12-04T20:47:54Z" finished-at="2015-12-04T20:48:05Z">
+      <class name="Facebook.NewTest">
+        <test-method status="PASS" signature="setBaseUrl()[pri:0, instance:Facebook.NewTest@39ba5a14]" name="setBaseUrl" is-config="true" duration-ms="5032" started-at="2015-12-04T14:47:54Z" finished-at="2015-12-04T14:47:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBaseUrl -->
+        <test-method status="PASS" signature="test1()[pri:0, instance:Facebook.NewTest@39ba5a14]" name="test1" duration-ms="6247" started-at="2015-12-04T14:47:59Z" finished-at="2015-12-04T14:48:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="endSession()[pri:0, instance:Facebook.NewTest@39ba5a14]" name="endSession" is-config="true" duration-ms="211" started-at="2015-12-04T14:48:05Z" finished-at="2015-12-04T14:48:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endSession -->
+      </class> <!-- Facebook.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
